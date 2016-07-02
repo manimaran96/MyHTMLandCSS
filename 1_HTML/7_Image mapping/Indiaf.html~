@@ -1,0 +1,19 @@
+<html>
+<head>
+<link rel="stylesheet" href="ex.css">
+<title>Image map</title>
+</head>
+<body>
+    <center><h1>Image map</h1></center>
+    <hr color = "green"/>
+    <map id = "picture">
+       
+	<area id="tn" href = "tamilnadu.html" shape = "circle" coords = "285,221,30" alt = "Tamilnadu" value="TN"/>
+	<area href = "karnataka.html" shape = "circle" coords = "175,119,30" alt = "Karnataka"\>
+	<area href = "andra.html" shape = "circle" coords = "313,102,30" alt = "Andra"\>
+	<area href = "kerala.html" shape = "circle" coords = "191,238,30" alt = "Kerala" \>
+    </map>
+    <center><img src = "img.jpg" alt = "india" usemap = "#picture" style = "padding-left:150px"\></center>
+  
+</body>
+</html>

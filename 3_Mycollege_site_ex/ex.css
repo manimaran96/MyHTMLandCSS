@@ -1,0 +1,31 @@
+p
+{
+ padding:0px 50px;
+font-size:20px;
+ color:green;
+}
+
+.list 
+{
+color:blue;
+background:orange;
+padding-right:20px;
+}
+
+
+.course
+{
+color:red;
+background:yellow;
+}
+
+.button
+{
+ size:60px 30px;
+}
+
+nav
+{
+ background-size:70px 30px;
+ background-color:silver;
+}

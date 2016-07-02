@@ -1,0 +1,39 @@
+body
+{
+ background-image: url("l.jpeg");
+ background-repeat: no-repeat;
+ background-size:100%;
+ font-family: Algerian;
+ font-size: 18px;
+ color: white;
+}
+
+h1
+{
+ color: #A69292;
+ text-align: left;
+}
+
+h4
+{
+ color: #F1603A;
+ text-align: left;
+}
+
+td
+{
+ padding-left: 30px;
+}
+
+ol li
+{
+ display: inline;
+ 
+ 
+}
+
+ol
+{
+ margin: -64px 150px;
+ 
+}

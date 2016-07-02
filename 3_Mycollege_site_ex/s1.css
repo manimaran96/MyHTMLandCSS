@@ -1,0 +1,46 @@
+body
+{
+background-image:url("log1.jpg");
+background-size:100%;
+
+
+}
+h1
+{
+color:grey;
+font-size:48px;
+allign:center;
+padding:25px 0px;
+}
+.form
+{
+color:white;
+margin:0px 350px;
+}
+a
+{
+text-decoration:none;
+font-size:30px;
+color:#283748;
+}
+a:hover
+{
+font-size:50px;
+}
+.box
+{
+background-size:300px 400px;
+padding:10px 0px;
+background-color:bule;
+}
+
+.logo
+{
+padding:-50px 0px;
+}
+
+input:focus
+{
+background-color:grey;
+color:white;
+}
